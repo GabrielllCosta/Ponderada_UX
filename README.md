@@ -29,22 +29,22 @@ A estética refere-se à experiência emocional proporcionada pelo jogo. Em Pong
 ## 3. Proposta de Reinvenção  
 *Explique as mudanças propostas para a nova versão do **Pong**, detalhando:*  
 
-*- **Tema e Ambientação:
+*Tema e Ambientação:
 
 O contexto do novo jogo é inspirado no Ceará, explorando as diferenças de cenário entre a área urbana da capital e o interior do sertão.
 
-*- **Personagens ou Elementos Visuais:
+*Personagens ou Elementos Visuais:
 
 Não adicionamos nenhum personagem.
 
-*- **Mudanças na Mecânica:
+*Mudanças na Mecânica:
 
 Sim, houve alterações na forma de jogar ao adicionarmos os buffs, que no jogo são: o cacto, a galinha, a turbina de energia eólica e as placas solares. Eles desempenham a mesma função, mas estão posicionados em lados diferentes: o cacto e a galinha no sertão, enquanto a turbina de energia eólica e as placas solares estão na capital.
 A galinha e as placas solares adicionam uma bola falsa, desafiando o oponente a identificar a verdadeira. A galinha transforma a bola (representada por um computador) em um ovo e adiciona outra, enquanto a placa solar transforma a bola em uma esfera luminosa e também adiciona uma extra.
 Já o cacto e a turbina eólica aceleram a bola: o cacto rebate a bola, enquanto a turbina eólica a impulsiona com o vento, tornando o jogo mais dinâmico e desafiador.
 
 
-*- **Objetivo da Reinvenção:** O que a nova versão pretende explorar ou melhorar em relação ao original?*
+*Objetivo da Reinvenção:** O que a nova versão pretende explorar ou melhorar em relação ao original?*
 
 A nova versão busca aprimorar a jogabilidade, a competitividade, a mecânica e o design, além de representar o estado do Ceará.
 
