@@ -54,20 +54,32 @@ A nova versão busca aprimorar a jogabilidade, a competitividade, a mecânica e 
 ## 4. Tela Digital do Jogo  
 ![Imagem](pong.jpeg.jpeg)
 
-*- Como o concept foi adaptado para o formato digital?*
+Como o concept foi adaptado para o formato digital?
 
-*- Quais elementos visuais foram aprimorados?*  
+O concept foi digitalizado a partir da ferramenta online de design gráfico Canva.
 
-*- O uso de cores, formas e layout foi pensado para reforçar que aspectos do jogo?*  
+Quais elementos visuais foram aprimorados?
+
+Nosso design digital foi totalmente aprimorado, considerando a pouca habilidade de desenho dos integrantes da dupla.
+
+O uso de cores, formas e layout foi pensado para reforçar que aspectos do jogo?
+
+Com certeza, as cores, formas e o layout são fundamentais para transmitir com precisão a essência do jogo. Além de ser um jogo divertido e competitivo, ele tem o objetivo de representar a diversidade de biomas e a riqueza cultural do Ceará, destacando dois extremos: a capital e o sertão.
+
 
 ---
 
 ## 5. Reflexão e Aprendizados  
 Quais foram os maiores desafios enfrentados durante o processo de criação?
+
 Francisco: Fazer o cenário do pong
+
 Gabriel: Pensar no novo conceito de pong
+
 Que habilidades foram desenvolvidas ou aprimoradas ao longo da atividade?
+
 Francisco: Criatividade e utilização do canva
+
 Gabriel: criatividade e desenho
 
 ---
