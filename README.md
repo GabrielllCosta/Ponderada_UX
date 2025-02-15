@@ -52,7 +52,7 @@ A nova versão busca aprimorar a jogabilidade, a competitividade, a mecânica e 
 ---
 
 ## 4. Tela Digital do Jogo  
-*Adicione aqui a **imagem da tela digital finalizada** ou o **link para o arquivo**.*  
+![Imagem](midia/pong.jpeg)
 
 *- Como o concept foi adaptado para o formato digital?*
 
@@ -63,20 +63,16 @@ A nova versão busca aprimorar a jogabilidade, a competitividade, a mecânica e 
 ---
 
 ## 5. Reflexão e Aprendizados  
-*Cada membro da dupla deve responder individualmente:*  
-
-1. Quais foram os maiores desafios enfrentados durante o processo de criação?
-2. Que habilidades foram desenvolvidas ou aprimoradas ao longo da atividade?  
+Quais foram os maiores desafios enfrentados durante o processo de criação?
+Francisco: Fazer o cenário do pong
+Gabriel: Pensar no novo conceito de pong
+Que habilidades foram desenvolvidas ou aprimoradas ao longo da atividade?
+Francisco: Criatividade e utilização do canva
+Gabriel: criatividade e desenho
 
 ---
 
 ## 6. Referências (se houver)  
-Caso tenha utilizado referências externas, inclua aqui as fontes consultadas.  
+Referências: Ajuda do ChatGpt para correção de textos.
 
 ---
-
-**📝 Formato de Entrega:**  
-- O relatório pode ser submetido no **GitHub** em **Markdown** `.md` ou como **PDF** `.pdf` **compartilhado via Drive**.  
-- **Nome do arquivo:** `RelatorioPong_Nome1-Nome2`  
-
-📌 **Prazo de entrega:** Sexta-feira, às 23h59.
