@@ -52,7 +52,7 @@ A nova versão busca aprimorar a jogabilidade, a competitividade, a mecânica e 
 ---
 
 ## 4. Tela Digital do Jogo  
-![Imagem](midia/pong.jpeg)
+![Imagem](pong.jpeg.jpeg)
 
 *- Como o concept foi adaptado para o formato digital?*
 
